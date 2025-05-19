@@ -81,5 +81,3 @@ Feel free to explore, learn, and build on this project!
 
 clicl the link below for the google colab notebook 
 [https://colab.research.google.com/drive/1sB_BE-mMrZoqwEC29nSq47wAyYHRCSRh?usp=sharing]
-
-the project report is also attached to this file 
