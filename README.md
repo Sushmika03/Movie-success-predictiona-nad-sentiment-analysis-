@@ -75,17 +75,11 @@ The project is divided into three main parts:
 - [NLTK](https://www.nltk.org/) for sentiment analysis tools
 - Scikit-learn for the modeling framework
 
----
 
-## Future Improvements
-
-- Include more features (e.g., director popularity, runtime, release year)
-- Try non-linear models like Random Forest or XGBoost
-- Visualize genre-wise sentiment trends in more detail
-
----
 
 Feel free to explore, learn, and build on this project!
 
 clicl the link below for the google colab notebook 
 [https://colab.research.google.com/drive/1sB_BE-mMrZoqwEC29nSq47wAyYHRCSRh?usp=sharing]
+
+the project report is also attached to this file 
